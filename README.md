@@ -70,13 +70,6 @@ of 3:
 
 `python Tweaker.py -v`
 
-## Cura Plugin:
-
-Cura 15 and Cura 2.3 are supported. Installation infos 
-are in the PlugIn folder, or you can also download the 
-PlugIn from Cura 2.7 PlugIn Browser.
-
-
 ## Interested in how the algorithm works?
 
 This [Whitepaper](https://www.researchgate.net/publication/311765131_Tweaker_-_Auto_Rotation_Module_for_FDM_3D_Printing) 
